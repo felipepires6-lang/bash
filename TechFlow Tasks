@@ -4,3 +4,6 @@ docs/
 .github/workflows/
 README.md
 requirements.txt
+
+
+.github/workflows/ci.yml
